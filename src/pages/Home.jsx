@@ -14,7 +14,7 @@ export const Home = () => {
     const apiKey = import.meta.env.VITE_APP_API_KEY;
 
     try {
-      const response = await fetch(`http://www.omdbapi.com/?apikey=${apiKey}&s=${genre}`);
+      const response = await fetch(`https://www.omdbapi.com/?apikey=${apiKey}&s=${genre}`);
 
       if (response.ok) {
         const data = await response.json();

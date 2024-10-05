@@ -17,7 +17,7 @@ export const Search = () => {
   }, [location.search]);
 
   const fetchMovies = async (query) => {
-    const response = await fetch(`http://www.omdbapi.com/?s=${query}&apikey=1b744d83`);
+    const response = await fetch(`https://www.omdbapi.com/?s=${query}&apikey=1b744d83`);
     const data = await response.json();
     setMovies(data.Search || []);
   };
