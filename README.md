@@ -6,6 +6,7 @@ Hello Authenticate Team,
 Thank you for the opportunity to participate in the Frontend Developer assignment. Below, you will find the documentation for the project, as requested.
 
 **Note:** This repository is private, and only I and the Authenticate team can access it through the invited link.
+Access the deployed site with this link 👉 https://watchlist-vishal.netlify.app/
 
 ## Project Overview
 
