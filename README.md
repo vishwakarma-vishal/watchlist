@@ -32,17 +32,18 @@ Watchlist is a React-based web application that allows users to search for movie
 ## Screenshots
 
 ### Desktop Layouts
-<img src="https://github.com/user-attachments/assets/db59c6c1-7165-470f-b019-4557dc3d4015" alt="Home page" width="500" height="300">
-<img src="https://github.com/user-attachments/assets/55f9a55b-dc8e-489c-bd6d-8004bac50cfb" alt="Home page" width="500" height="300">
-<img src="https://github.com/user-attachments/assets/607874ed-4e13-46f9-bd64-09ec5e8d9baf" alt="Home page" width="500" height="300">
-<img src="https://github.com/user-attachments/assets/495af05c-af52-4d3f-bccb-dcafe020a976" alt="Home page" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/6a50d3cf-cc26-48ee-a100-8c7d80de2129" alt="Home page" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/ad0b6f84-9aad-47ad-8c11-f88a23b39a4d" alt="watchlist list without login" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/fbfd282f-8c38-418b-8bd0-e9d07541f30f" alt="Search page" width="500" height="350">
+<img src="https://github.com/user-attachments/assets/5e23d1fb-1e1e-455c-8267-ab80f5ba6611" alt="Movie page" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/4dea7ce3-f0fa-459f-a017-3add013d928e" alt="Movie page" width="500" height="300">
 
 ### Mobile Layouts
-<img src="https://github.com/user-attachments/assets/f0666087-0e11-4dcc-aab6-4fc8afe16d54" alt="Home page" width="250" height="900">
-<img src="https://github.com/user-attachments/assets/fe1a1903-f10e-4102-8cc6-f74309ec1aa3" alt="Home page" width="250" height="900">
-<img src="https://github.com/user-attachments/assets/907c93b3-d9ed-49de-bc7c-99cf7476c73a" alt="Home page" width="250" height="900">
-<img src="https://github.com/user-attachments/assets/8ae87654-6820-448f-bb3c-8a16a901e5a0" alt="Home page" width="250" height="750">
-<img src="https://github.com/user-attachments/assets/0ef75aa2-c37e-4470-bf79-1ecfebea6514" alt="Home page" width="270" height="750">
+<img src="https://github.com/user-attachments/assets/fa5c31d6-5c0c-4496-b40d-75bc7c8d9d5d" alt="Home page" width="250" height="900">
+<img src="https://github.com/user-attachments/assets/35808fc5-fbb9-41c7-8ae5-0e863fea7b8a" alt="Watchlist page" width="250" height="900">
+<img src="https://github.com/user-attachments/assets/5db340ec-defb-443f-b2e3-2d697aea0a9a" alt="Search page" width="250" height="900">
+<img src="https://github.com/user-attachments/assets/4279bb27-d1da-4d6c-8e58-1dec044850b7" alt="Movie details page" width="250" height="750">
+<img src="https://github.com/user-attachments/assets/59eff3c9-8d25-407e-8b0f-e4e9b76418d0" alt="sidebar page" width="270" height="500">
 
 ## Installation
 
