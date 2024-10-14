@@ -12,7 +12,7 @@ export const Movie = () => {
     try {
       const apiKey = '1b744d83'; // Replace with your OMDB API key
       console.log("Fetching movie with ID:", movieId); // Log the movie ID
-      const response = await fetch(`http://www.omdbapi.com/?apikey=${apiKey}&i=${movieId}`);
+      const response = await fetch(`https://www.omdbapi.com/?apikey=${apiKey}&i=${movieId}`);
 
       if (!response.ok) {
         throw new Error('Network response was not ok');
