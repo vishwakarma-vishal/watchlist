@@ -1,12 +1,4 @@
-
 # Watchlist
-
-Hello Authenticate Team,
-
-Thank you for the opportunity to participate in the Frontend Developer assignment. Below, you will find the documentation for the project, as requested.
-
-**Note:** This repository is private, and only I and the Authenticate team can access it through the invited link.
-Access the deployed site with this link 👉 https://watchlist-vishal.netlify.app/
 
 ## Project Overview
 
@@ -102,15 +94,6 @@ You can deploy the Watchlist app using hosting services like [Netlify](https://w
 2. **Deploy:** 
 
    Upload the generated `dist` folder to your hosting platform or link your GitHub repository for automatic deployment.
-
-## Contact
-
-For any questions or suggestions, feel free to reach out:
-
-- **Name:** Vishal Vishwakarma
-- **Email:** [Email](mailto:vishal.vishwakarma.dev@gmail.com)
-- **Portfolio:** [Portfolio](https://vishal-portfolio-project-react.netlify.app/)
-- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/vishwakarma-vishal2001/)
 
 ## Acknowledgements
 
